@@ -1,0 +1,2 @@
+# Simultaneous-tactile-and-morphological-perception-enables-autonomous-soft-robots
+This repository provides the implementation of a fully stretchable, shape-agnostic electronic skin (e-skin) framework that enables unified tactile–morphological perception for soft robots. The code reconstructs simultaneous tactile and shape information, generating high-contrast tactile maps and sub-millimetre-accurate 3D morphology profiles.
